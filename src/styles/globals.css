@@ -3,7 +3,16 @@ body {
 }
 
 header {
+  display: flex;
+  font-weight: bold;
+  gap: 20px;
+  align-items: center;
   border-bottom: 1px solid #000;
+}
+
+.liMenu {
+  text-decoration: none;
+  color: #000;
 }
 
 main {

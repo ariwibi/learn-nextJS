@@ -11,7 +11,7 @@ const DetailMenu = () => {
   }, [router.query])
   return (
     <section>
-      this is detail menu
+      this is your pizza
     </section>
   )
 }
